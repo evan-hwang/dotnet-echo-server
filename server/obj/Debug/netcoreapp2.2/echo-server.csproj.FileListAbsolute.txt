@@ -1,0 +1,11 @@
+/Users/evan/dev/dotnet/echo-server/bin/Debug/netcoreapp2.2/echo-server.deps.json
+/Users/evan/dev/dotnet/echo-server/bin/Debug/netcoreapp2.2/echo-server.runtimeconfig.json
+/Users/evan/dev/dotnet/echo-server/bin/Debug/netcoreapp2.2/echo-server.runtimeconfig.dev.json
+/Users/evan/dev/dotnet/echo-server/bin/Debug/netcoreapp2.2/echo-server.dll
+/Users/evan/dev/dotnet/echo-server/bin/Debug/netcoreapp2.2/echo-server.pdb
+/Users/evan/dev/dotnet/echo-server/obj/Debug/netcoreapp2.2/echo-server.csprojAssemblyReference.cache
+/Users/evan/dev/dotnet/echo-server/obj/Debug/netcoreapp2.2/echo-server.csproj.CoreCompileInputs.cache
+/Users/evan/dev/dotnet/echo-server/obj/Debug/netcoreapp2.2/echo-server.AssemblyInfoInputs.cache
+/Users/evan/dev/dotnet/echo-server/obj/Debug/netcoreapp2.2/echo-server.AssemblyInfo.cs
+/Users/evan/dev/dotnet/echo-server/obj/Debug/netcoreapp2.2/echo-server.dll
+/Users/evan/dev/dotnet/echo-server/obj/Debug/netcoreapp2.2/echo-server.pdb
